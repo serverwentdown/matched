@@ -3,4 +3,5 @@
 *.zip
 *.pak
 
-out/
+out/*
+!out/*-screenshot-1.png
