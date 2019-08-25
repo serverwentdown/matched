@@ -4,4 +4,4 @@
 *.pak
 
 out/*
-!out/*-screenshot-1.png
+!out/*-marquee.png

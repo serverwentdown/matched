@@ -16,7 +16,23 @@
 
 Follow system colorscheme.
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-matched/)
+<table>
+	<thead>
+		<tr>
+			<th>Firefox</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://addons.mozilla.org/en-US/firefox/addon/auto-matched/">
+					<img alt="Dark Firefox Screenshot" src="out/dark-firefox-marquee.png" width="340" /><br>
+					<img alt="Dark Firefox Screenshot" src="out/light-firefox-marquee.png" width="340" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 # Dark
 
@@ -31,12 +47,12 @@ Follow system colorscheme.
 		<tr>
 			<td>
 				<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-matched/">
-					<img alt="Dark Firefox Screenshot" src="out/dark-firefox-screenshot-1.png" width="320" />
+					<img alt="Dark Firefox Screenshot" src="out/dark-firefox-marquee.png" width="340" />
 				</a>
 			</td>
 			<td>
 				<a href="https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk">
-					<img alt="Dark Chrome Screenshot" src="out/dark-chrome-screenshot-1.png" width="320" />
+					<img alt="Dark Chrome Screenshot" src="out/dark-chrome-marquee.png" width="340" />
 				</a>
 			</td>
 		</tr>
@@ -56,12 +72,12 @@ Follow system colorscheme.
 		<tr>
 			<td>
 				<a href="https://addons.mozilla.org/en-US/firefox/addon/light-matched/">
-					<img alt="Light Firefox Screenshot" src="out/light-firefox-screenshot-1.png" width="320" />
+					<img alt="Light Firefox Screenshot" src="out/light-firefox-marquee.png" width="340" />
 				</a>
 			</td>
 			<td>
 				<a href="https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj">
-					<img alt="Light Chrome Screenshot" src="out/light-chrome-screenshot-1.png" width="320" />
+					<img alt="Light Chrome Screenshot" src="out/light-chrome-marquee.png" width="340" />
 				</a>
 			</td>
 		</tr>
