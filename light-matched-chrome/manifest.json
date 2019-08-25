@@ -28,7 +28,7 @@
       "frame_incognito_inactive": [ -1, -1, -1 ]
     },
     "properties": {
-      "ntp_logo_alternate": 1
+      "ntp_logo_alternate": 0
     }
   },
   "version": "3"

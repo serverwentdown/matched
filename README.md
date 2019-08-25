@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="Icon Close.png" width="128" />
+	<img src="icons/Icon Close.png" width="128" />
 </div>
 
 <h1 align="center">
@@ -16,14 +16,18 @@
 
 Follow system colorscheme.
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/auto-matched/">Firefox</a>
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/auto-matched/)
 
 # Dark
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-matched/">Firefox</a>
-<a href="https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk">Chrome</a>
+<img alt="Dark Screenshot" src="screenshots/dark-chrome-1.png" />
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-matched/)
+[Chrome](https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk)
 
 # Light
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-matched/">Firefox</a>
-<a href="https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj">Chrome</a>
+<img alt="Light Screenshot" src="screenshots/light-chrome-1.png" />
+
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-matched/)
+[Chrome](https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj)
