@@ -20,21 +20,50 @@ Follow system colorscheme.
 
 # Dark
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-matched/">
-	<img alt="Dark Firefox Screenshot" src="screenshots/dark-firefox-3.png" width="320" />
-</a>
-
-<a href="https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk">
-	<img alt="Dark Chrome Screenshot" src="screenshots/dark-chrome-1.png" width="320" />
-</a>
+<table>
+	<thead>
+		<tr>
+			<th>Firefox</th>
+			<th>Chrome</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://addons.mozilla.org/en-US/firefox/addon/dark-matched/">
+					<img alt="Dark Firefox Screenshot" src="screenshots/dark-firefox-3.png" width="320" />
+				</a>
+			</td>
+			<td>
+				<a href="https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk">
+					<img alt="Dark Chrome Screenshot" src="screenshots/dark-chrome-1.png" width="320" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 # Light
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/light-matched/">
-	<img alt="Light Firefox Screenshot" src="screenshots/light-firefox-3.png" width="320" />
-</a>
-
-<a href="https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj">
-	<img alt="Light Chrome Screenshot" src="screenshots/light-chrome-1.png" width="320" />
-</a>
-
+<table>
+	<thead>
+		<tr>
+			<th>Firefox</th>
+			<th>Chrome</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<a href="https://addons.mozilla.org/en-US/firefox/addon/light-matched/">
+					<img alt="Light Firefox Screenshot" src="screenshots/light-firefox-3.png" width="320" />
+				</a>
+			</td>
+			<td>
+				<a href="https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj">
+					<img alt="Light Chrome Screenshot" src="screenshots/light-chrome-1.png" width="320" />
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
