@@ -1,0 +1,37 @@
+#!/bin/bash
+
+for f in screenshots/*-*-1.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-1.png/-screenshot-1.png}"
+	gm convert $f -crop 1280x800+0+0 $outf
+done
+
+for f in screenshots/*-*-2.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-2.png/-screenshot-2.png}"
+	gm convert $f -crop 1280x800+1280+0 $outf
+done
+
+for f in screenshots/*-*-3.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-3.png/-screenshot-3.png}"
+	gm convert $f -resize 1280x800 $outf
+done
+
+for f in screenshots/*-*-3.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-3.png/-tile-small.png}"
+	gm convert $f -crop 440x280+0+0 $outf
+done
+
+for f in screenshots/*-*-3.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-3.png/-tile-large.png}"
+	gm convert $f -crop 920x680+0+0 $outf
+done
+
+for f in screenshots/*-*-3.png; do
+	outf="${f//screenshots\//out/}"
+	outf="${outf//-3.png/-marquee.png}"
+	gm convert $f -crop 1400x560+0+0 $outf
+done

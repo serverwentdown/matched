@@ -20,14 +20,14 @@ Follow system colorscheme.
 
 # Dark
 
-<img alt="Dark Screenshot" src="screenshots/dark-chrome-1.png" />
+<img alt="Dark Screenshot" src="screenshots/dark-chrome-1.png" width="512" />
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-matched/)
 [Chrome](https://chrome.google.com/webstore/detail/dark-matched/aapflpcfdelmkobdakjnieeaoiofcodk)
 
 # Light
 
-<img alt="Light Screenshot" src="screenshots/light-chrome-1.png" />
+<img alt="Light Screenshot" src="screenshots/light-chrome-1.png" width="512" />
 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dark-matched/)
 [Chrome](https://chrome.google.com/webstore/detail/light-matched/bilibfhhkphlgndmckcabgpbanadpnbj)

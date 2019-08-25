@@ -1,15 +1,11 @@
 #!/bin/bash
 
-echo "Cleaning up..."
-echo rm *.zip
-rm *.zip
-
-for f in *; do
+for f in *-*; do
 	if ! [ -d "$f" ]; then
 		continue
 	fi
 	cd "$f"
 	echo "Zipping $f..."
-	zip -r "../$f.zip" manifest.json icon.png
+	zip -r "../out/$f.zip" manifest.json icon.png
 	cd ..
 done
